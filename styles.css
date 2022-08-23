@@ -35,7 +35,7 @@ ul {
 .first-section,
 .second-section,
 .third-section {
-    padding: 25px;
+    padding: 50px;
 }
 
 .first-section {
@@ -126,7 +126,7 @@ ul {
 
     .grid-container {
         grid-template-columns: repeat(1, 100%);
-        max-width: 300px;
+        max-width: 375px;
     }
 
     .first-section,
