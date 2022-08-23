@@ -126,7 +126,7 @@ ul {
 
     .grid-container {
         grid-template-columns: repeat(1, 100%);
-        max-width: 400px;
+        max-width: 350px;
     }
 
     .first-section,
